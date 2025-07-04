@@ -5,6 +5,8 @@
 #include <chrono>
 #include <iomanip>
 
+//only supports linux
+
 using namespace std;
 using namespace chrono;
 
