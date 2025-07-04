@@ -4,5 +4,5 @@ def fibo(n):
     if n==2:
         return 1
     return fibo(n-1) + fibo(n-2)
-num=17
-print("Fibonacci=",fibo(num))          
+num=40
+print("Fibonacci=",fibo(num))
